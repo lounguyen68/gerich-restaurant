@@ -18,6 +18,7 @@
     font-size: 1rem;
     font-family: var(--font-base);
     color: var(--color-white);
+    outline: none;
 
     margin-right: 2rem;
     padding: 0.75rem 1rem;
